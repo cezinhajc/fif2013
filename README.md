@@ -18,6 +18,10 @@ Como ainda estamos em fase de estudos, lançamos essa versão alpha.
 
 O planejamento está para junho de 2013.
 
+**5. Não, quero falar com quem está por trás disso.**
+
+Jú Gonçalves: [Facebook](https://www.facebook.com/itsjugoncalves) - hello@jugoncalv.es
+
 ## Divulgue
 
 Divulgue o site para todos que você conheça que possa se interessar, inclusive, para pessoas de outros estados do Nordeste.
