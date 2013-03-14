@@ -16,7 +16,7 @@ Como ainda estamos em fase de estudos, lançamos essa versão alpha.
 
 **4. Quando vai ser ?**
 
-O planejamento está para junho de 2013.
+Dia 20 de Julho de 2013.
 
 **5. Não, quero falar com quem está por trás disso.**
 
@@ -25,3 +25,7 @@ Jú Gonçalves: [Facebook](https://www.facebook.com/itsjugoncalves) - hello@jugo
 ## Divulgue
 
 Divulgue o site para todos que você conheça que possa se interessar, inclusive, para pessoas de outros estados do Nordeste.
+
+###Siga-nos
+
+[@FrontInFortal](https://twitter.com/FrontInFortal)
